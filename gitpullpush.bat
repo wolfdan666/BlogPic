@@ -1,4 +1,4 @@
-git pull pic@gitee master
+git pull pic master
 git add --all
 git commit -m "%date%"
 git push pic@gitee master
